@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: grey;
+}
+
+a {
+  color: #00B7FF;
+}
+.jumbotron {
+  background-color: grey;
+}
+.card{
+  border-radius: 10px;
+  background-color: white;
+}
+.container{
+  margin-top: 10rem;
+}
+
